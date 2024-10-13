@@ -30,6 +30,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ilamaalajmah/ilamaalajmah/output/snake.svg" alt="Snake animation" />
-
-###
