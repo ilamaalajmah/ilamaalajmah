@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">As a Front-end Web Developer with a Bachelor's in Computer Science, I combine strong technical skills with practical experience. My projects demonstrate creativity and problem-solving, and I’m committed to continuous learning. Equipped with both technical and soft skills, I’m ready to contribute effectively to front-end development and deliver impactful solutions in the digital space.</p>
+<p align="left">As a Front-end Web Developer with a background in Computer Science, I combine technical expertise with practical experience. My work reflects my creativity and problem-solving abilities, and I’m committed to continuous learning. With a mix of technical knowledge and interpersonal skills, I’m ready to make meaningful contributions to front-end projects and create solutions that resonate in the realm of digital transformation.
+</p>
 
 ###
 
